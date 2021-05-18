@@ -10,3 +10,15 @@ print ("hola mundo")
 print ("segudo cambio luego del checkout")
 
 print ("validacion de diff")
+
+
+
+import pandas as pd
+import os
+from gsheets import Sheets
+import pyodbc 
+#import threading
+import time
+
+
+
